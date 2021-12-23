@@ -36,3 +36,9 @@ body {
 	border-radius: 3px;
 	padding: 3px;
 }
+
+.cajas {
+	max-width: 600px;
+	align-items: flex-end;
+	margin: auto;
+}
