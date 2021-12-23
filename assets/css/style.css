@@ -1,17 +1,17 @@
 body {
 	background-color: lightgrey;
-	background-image: url(assets/images/bgnew.png) !important;
+	background-image: url(../images/bgnew.png);
 	background-repeat: no-repeat;
 	background-position: top center;
-	margin-top: 1px;
+	margin-top: 0px;
 }
 
 .foto-perfil {
 	margin-left: 50px;
-
+	margin-top: -15px;
 }
 
-.biografia {
+.tarjetas {
 	max-width: 1800px;
 	align-self: auto;
 	margin: 0px 50px;
