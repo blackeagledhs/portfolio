@@ -1,6 +1,6 @@
 body {
 	background-color: lightgrey;
-	background-image: url(../assets/images/bgnew.png);
+	background-image: url(assets/images/bgnew.png) !important;
 	background-repeat: no-repeat;
 	background-position: top center;
 	margin-top: 1px;
