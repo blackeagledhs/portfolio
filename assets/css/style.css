@@ -8,7 +8,7 @@ body {
 
 .foto-perfil {
 	margin-left: 50px;
-	margin-top: -15px;
+	margin-top: -20px;
 }
 
 .tarjetas {
@@ -31,14 +31,17 @@ body {
 }
 
 .cabeceras {
-	background-color: #8b580bbd;
+	background-color: #8e532f;
 	border: 1px solid;
 	border-radius: 3px;
 	padding: 3px;
+	color: white;
 }
 
 .cajas {
 	max-width: 600px;
 	align-items: flex-end;
+	align-self: auto;
+	align-content: center;
 	margin: auto;
 }
