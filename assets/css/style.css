@@ -1,0 +1,38 @@
+body {
+	background-color: lightgrey;
+	background-image: url(../assets/images/bgnew.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	margin-top: 1px;
+}
+
+.foto-perfil {
+	margin-left: 50px;
+
+}
+
+.biografia {
+	max-width: 1800px;
+	align-self: auto;
+	margin: 0px 50px;
+	background-color: white transparent;
+}
+
+.servicios {
+	align-self: auto;
+
+
+}
+
+.services {
+	width: 50px;
+	align-self: auto;
+
+}
+
+.cabeceras {
+	background-color: #8b580bbd;
+	border: 1px solid;
+	border-radius: 3px;
+	padding: 3px;
+}
