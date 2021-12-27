@@ -15,7 +15,7 @@ body {
 	max-width: 1800px;
 	align-self: auto;
 	margin: 0px 50px;
-	background-color: transparent;
+	background-color: white transparent;
 }
 
 .servicios {
@@ -44,4 +44,10 @@ body {
 	align-self: auto;
 	align-content: center;
 	margin: auto;
+}
+
+section div.cajas img {
+	width: 100px;
+	height: 100px;
+	align-self: center;
 }
