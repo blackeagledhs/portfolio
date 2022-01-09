@@ -1,16 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rock+Salt&display=swap');
+
+
 body {
 	background-color: lightgrey;
-	background-image: url(../images/bgnew.png);
+	background-image: url(../images/fondo.jpg);
 	background-repeat: no-repeat;
-	background-position: top center;
-	margin-top: 0px;
+	background-attachment: fixed;
 }
+
 
 .foto-perfil {
 	margin-left: 50px;
 	margin-top: -20px;
 }
 
+.perfil {
+	position: relative;
+	margin-left: 220px;
+	
+}
+
+.perfil h1{
+	font-family: 'Rock Salt', cursive;
+	font-size: 50px;
+	color: #ffffff;
+}
+
+.perfil h3{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 25px;
+	color: #ffffff;
+	
+}
 .tarjetas {
 	max-width: 1800px;
 	align-self: auto;
